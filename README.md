@@ -1,3 +1,3 @@
 Test
 ====
-操作系统作业-模拟三种内存管理
+Use a simple iOS application to show three kinds of memory management of operating system.
